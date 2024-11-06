@@ -1,4 +1,4 @@
-package enumtypes;
+package enumTypes;
 
 public class PasswordStrength {
 
